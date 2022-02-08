@@ -1,0 +1,35 @@
+[
+    {
+    "id": 1,
+    "classification_name": "Sales Dilutive",
+    "number_of_offers": 10,
+    "total_incremental_sales": 5,
+    "total_incremental_margin":6,
+    "classification": 0
+    },
+    {
+    "id": 2,
+    "classification_name": "Expensive",
+    "number_of_offers": 194,
+    "total_incremental_sales": 60,
+    "total_incremental_margin":-6,
+    "classification": 56
+    },
+    {
+    "id": 3,
+    "classification_name": "Effective",
+    "number_of_offers": 78,
+    "total_incremental_sales": 29,
+    "total_incremental_margin":-6,
+    "classification": 22
+    },
+    {
+    "id": 4,
+    "classification_name": "Self Funding",
+    "number_of_offers": 75,
+    "total_incremental_sales": 25,
+    "total_incremental_margin":2,
+    "classification": 22
+    }
+]
+    

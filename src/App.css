@@ -7,6 +7,71 @@
   pointer-events: none;
 }
 
+.component-routes {
+  margin-left: 46px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 25px;
+}
+
+.Dropdown-menu {
+  width: 214px !important;
+}
+
+.calendar-dropdown {
+  width: 214px;
+  padding: 40px;
+  padding-bottom: 0px;
+}
+
+.dropdown-section {
+  display: inline-flex;
+}
+
+.home-links {
+  margin: 200px;
+  display: flex;
+  justify-content: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
